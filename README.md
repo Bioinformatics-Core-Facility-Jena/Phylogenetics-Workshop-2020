@@ -1,13 +1,13 @@
 Phylogenetics Workshop 2020
 ======
 
-### Date, Time & Place.
-
+Date, Time & Place.
+------
 The workshop takes place from Tuesday (14.01.2020) until Friday (17.01.2020), starting at 09:00 and ending around 16:00.
 All workshop sessions will take place in the JenTower at the 8th floor (Leutragraben 1, 07743 Jena; https://goo.gl/maps/Wi3LcBYNkF345rPJ9) 
 
-### How to exactly get to the Workshop room.
-
+How to exactly get to the Workshop room.
+------
 When entering the JenTower, continue to the elevators were you will find a terminal. There you enter the number '8' to get to the 8th floor. The terminal will display either the letter 'B', 'C' or 'D', indicating which of the elevators will bring you to the 8th floor. 
 In case you are stopped and asked where you want to go at the JenTower's reception near the elevators, you can simply answer that you are expected at the bioinformatics lab on the 8th floor for a workshop.
 
