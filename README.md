@@ -39,7 +39,7 @@ Workshop material.
 ------
 All workshop materials, like slides, notes or usefull links will be uploaded later here:
 
-* *The links to the material used will appear here later...* 
+* *The links to the material used will appear later here...* 
 
 If you have any further question or comment...
 ------
