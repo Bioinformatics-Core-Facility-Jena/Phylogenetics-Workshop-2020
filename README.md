@@ -19,12 +19,12 @@ During the first two days, we will mainly work with the online platform **galaxy
 
 During the last two days, we will work mainly with **BEAST 2**, which you can download from their official site at http://www.beast2.org/. However, before installing **BEAST 2**, make sure that you have Java 8 (or higher, but 8 is ideal) installed on your laptop, which you can get here: https://adoptopenjdk.net/. After successfully having installed **BEAST 2**, some more internal packages are required, namely:
 
-⋅⋅* BEASTLabs
-⋅⋅* BDSKY
-⋅⋅* bacter
-⋅⋅* Tracer
-⋅⋅* FigTree
-⋅⋅* DensiTree
+* BEASTLabs
+* BDSKY
+* bacter
+* Tracer
+* FigTree
+* DensiTree
 
 Installing these additional packages is made easy by the **BEAST 2 Package Manager**, which is part of **BEAST 2**’s graphical user interface, just follow the [Managing Packages](http://www.beast2.org/managing-packages/index.html) page for details.
 
