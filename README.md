@@ -1,4 +1,4 @@
-# Phylogenetics Workshop 2020
+Phylogenetics Workshop 2020
 ======
 
 ### Date, Time & Place.
