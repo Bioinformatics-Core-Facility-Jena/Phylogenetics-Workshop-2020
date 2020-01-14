@@ -39,7 +39,12 @@ Workshop material.
 ------
 All workshop materials, like slides, notes or usefull links will be uploaded later here:
 
-* *The links to the material used will appear later here...* 
+* [Slides of Workshop Day 1](./Phyloworkshop_2020_day_1.pdf) 
+
+Useful links.
+------
+* [The NCBI Taxonomy](https://www.ncbi.nlm.nih.gov/taxonomy)
+* [The Tree Of Life Web Project](http://tolweb.org/tree/)
 
 If you have any further question or comment...
 ------
