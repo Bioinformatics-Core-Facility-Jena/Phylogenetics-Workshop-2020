@@ -39,7 +39,8 @@ Workshop material.
 ------
 All workshop materials, like slides, notes or usefull links will be uploaded later here:
 
-* [Slides of Workshop Day 1](./Phyloworkshop_2020_day_1.pdf) 
+* [Slides of Workshop Day 1](./Phyloworkshop_2020_day_1.pdf)
+* [Slides of Workshop Day 2](./Phyloworkshop_2020_day_2.pdf)
 
 Useful links.
 ------
