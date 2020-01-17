@@ -41,11 +41,15 @@ All workshop materials, like slides, notes or usefull links will be uploaded lat
 
 * [Slides of Workshop Day 1](./Phyloworkshop_2020_day_1.pdf)
 * [Slides of Workshop Day 2](./Phyloworkshop_2020_day_2.pdf)
+* [Slides of Workshop Day 3](./Phyloworkshop_2020_day_3.pdf)
+* [Slides of Workshop Day 4](./Phyloworkshop_2020_day_4.pdf)
+* [Slides of Workshop Part Phylodynamics](./Phyloworkshop_2020_Phylodynamics.pdf)
 
 Useful links.
 ------
 * [The NCBI Taxonomy](https://www.ncbi.nlm.nih.gov/taxonomy)
 * [The Tree Of Life Web Project](http://tolweb.org/tree/)
+* [The BEAST 2 Tutorials](https://www.beast2.org/tutorials/)
 
 If you have any further question or comment...
 ------
